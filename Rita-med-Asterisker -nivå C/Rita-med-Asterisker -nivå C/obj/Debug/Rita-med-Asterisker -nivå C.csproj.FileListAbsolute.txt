@@ -1,0 +1,8 @@
+c:\users\rasha\documents\visual studio 2013\Projects\Rita-med-Asterisker -nivå C\Rita-med-Asterisker -nivå C\bin\Debug\Rita-med-Asterisker -nivå C.exe.config
+c:\users\rasha\documents\visual studio 2013\Projects\Rita-med-Asterisker -nivå C\Rita-med-Asterisker -nivå C\bin\Debug\Rita-med-Asterisker -nivå C.exe
+c:\users\rasha\documents\visual studio 2013\Projects\Rita-med-Asterisker -nivå C\Rita-med-Asterisker -nivå C\bin\Debug\Rita-med-Asterisker -nivå C.pdb
+c:\users\rasha\documents\visual studio 2013\Projects\Rita-med-Asterisker -nivå C\Rita-med-Asterisker -nivå C\obj\Debug\Rita-med-Asterisker -nivå C.csprojResolveAssemblyReference.cache
+c:\users\rasha\documents\visual studio 2013\Projects\Rita-med-Asterisker -nivå C\Rita-med-Asterisker -nivå C\obj\Debug\Rita_med_Asterisker__nivå_C.DrawWithAstericks-Strings.resources
+c:\users\rasha\documents\visual studio 2013\Projects\Rita-med-Asterisker -nivå C\Rita-med-Asterisker -nivå C\obj\Debug\Rita-med-Asterisker -nivå C.csproj.GenerateResource.Cache
+c:\users\rasha\documents\visual studio 2013\Projects\Rita-med-Asterisker -nivå C\Rita-med-Asterisker -nivå C\obj\Debug\Rita-med-Asterisker -nivå C.exe
+c:\users\rasha\documents\visual studio 2013\Projects\Rita-med-Asterisker -nivå C\Rita-med-Asterisker -nivå C\obj\Debug\Rita-med-Asterisker -nivå C.pdb
